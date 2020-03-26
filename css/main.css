@@ -1,0 +1,10 @@
+ul { display: inline-block; }
+
+ul li { padding: 20px 0; border-bottom: thin solid #333; }
+
+ul li:first-of-type { padding-top: 0; }
+ul li:last-of-type { border-bottom: none; }
+
+li button { float: right; margin-left: 10px; }
+
+.controls { padding-left: 24px;  margin-top: 12px; }
